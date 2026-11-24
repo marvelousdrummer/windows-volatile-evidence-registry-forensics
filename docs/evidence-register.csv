@@ -1,0 +1,11 @@
+ID,Original source,Published artifact,Type,Selection notes
+EV-01,image(20261110-012620).png,screenshots/01_process_network_comparison.png,Screenshot,Selected focused comparison
+EV-02,image(20261110-012736).png,screenshots/02_clipboard_comparison.png,Screenshot,Selected focused comparison
+EV-03,image(20261110-013009).png,screenshots/03_boot_and_logon_times.png,Screenshot,Selected and cropped unrelated application
+EV-04,image(20261110-013111).png,screenshots/04_notepad_dump_sizes.png,Screenshot,Selected focused comparison
+EV-05,Before_InstalledSoftware.csv,Not published,Original Registry evidence,21 rows reviewed full inventory withheld
+EV-06,After_InstalledSoftware.csv,Not published,Original Registry evidence,22 rows reviewed full inventory withheld
+EV-07,Software_Registry_Changes.csv,data/registry-change-sanitized.csv,Derived Registry finding,Removed unique uninstall-key path
+EV-08,Registry_Evidence_Hashes.csv,docs/integrity-record.md,Historical digests,Original hashes transcribed
+EV-09,Final_Lab_Findings.txt,docs/findings.md,Derived narrative,Independent wording based on observed findings
+EV-10,CYB451_Volatile_Evidence_Report_Tony_Marvel.docx,Not published,Academic report,Factual reference only

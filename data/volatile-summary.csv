@@ -1,0 +1,10 @@
+Metric,Before,After,Interpretation
+Windows last boot time,2026-11-09 16:27:22,2026-11-09 16:54:51,Distinct VM boots
+Interactive logon,2026-11-09 16:28,2026-11-09 16:55,New interactive session
+Chrome process entries,11,0,Chrome not reopened post-restart
+Established TCP connections,27,26,Counts do not identify persistent connections
+Mapped drive entries,0,0,None observed
+PowerShell session-history entries,7,6,Current session only
+Clipboard characters,107,76,Possible collection-induced overwrite
+Notepad process dump size MB,309.97,317.40,Content changes not established
+Installed software Registry entries,21,22,One new Adobe entry
